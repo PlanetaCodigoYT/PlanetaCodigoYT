@@ -45,7 +45,3 @@ Construyo y enseño utilizando herramientas modernas, eficientes y alineadas con
 Todos los repositorios alojados en este perfil están estructurados como **proyectos reales**, listos para ser analizados, clonados y desplegados paso a paso.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PlanetaCodigoYT&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
