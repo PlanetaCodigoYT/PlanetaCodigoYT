@@ -1,38 +1,51 @@
-<h1 align="center">Hola, soy Mauricio Montoya Villa 👋</h1>
-
-<h3 align="center">Instructor SENA | Software Developer | Fundador de Planeta Código</h3>
+<h1 align="center">Mauricio Montoya Villa 👋</h1>
+<p align="center">
+  <strong>Ingeniero Informático | Desarrollador Web | Instructor Técnico SENA | Fundador de Planeta Código & CreandoLabs</strong>
+</p>
 
 <p align="center">
-  <em>"Transformando conceptos complejos en soluciones digitales escalables."</em>
+  <a href="https://creandolabs.com"><strong>creandolabs.com</strong></a> | 
+  <a href="https://www.youtube.com/@planetacodigo"><strong>YouTube: Planeta Código</strong></a>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí y Filosofía de Enseñanza
 
-Desarrollador Full-Stack enfocado en la creación de herramientas eficientes y escalables. Actualmente, lidero el ecosistema de aprendizaje técnico en **Planeta Código**, donde comparto soluciones reales en PHP, Python/Django y gestión de infraestructura.
+Soy ingeniero informático y desarrollador web apasionado por la creación de soluciones de software robustas y por la transferencia de conocimiento técnico. Mi enfoque profesional se divide en dos grandes pilares: el desarrollo comercial y la docencia de alto impacto.
 
-Mi filosofía de trabajo se basa en la **seguridad de datos (Cold Backup)**, la **calidad en el código** y la **documentación técnica clara**.
+> _«Bienvenido a Planeta Código, donde aprenderán programación paso a paso y sin complicaciones»._
 
-## 🛠️ Stack Tecnológico
-
-| Categoría     | Tecnologías                        |
-| :------------ | :--------------------------------- |
-| **Backend**   | Python (Django), PHP, MySQL        |
-| **Frontend**  | HTML5, CSS3, Bootstrap, JavaScript |
-| **Dev Tools** | Git, VS Code, Linux, Docker        |
+Esta premisa guía mi labor diaria tanto en el canal de YouTube como en mis clases en el SENA. Creo firmemente que la mejor manera de dominar la tecnología es mediante **proyectos reales**, desglosando arquitecturas complejas en pasos lógicos, estructurados y accesibles para garantizar un aprendizaje profundo y aplicable en la industria actual.
 
 ---
 
-## 📺 Contenido Educativo
+## 🏢 Ecosistema Profesional
 
-Si estás buscando tutoriales, guías y buenas prácticas, sígueme en mis canales oficiales:
+- **CreandoLabs:** Mi firma de desarrollo tecnológico y proyectos empresariales enfocados en soluciones web a medida, arquitectura de software y optimización de plataformas digitales.
+- **SENA (Servicio Nacional de Aprendizaje):** Instructor técnico en el área de programación y teleinformática, formando a las próximas generaciones de desarrolladores bajo estándares técnicos reales.
+- **Planeta Código:** Comunidad educativa y canal de difusión donde libero código fuente, guías de despliegue y flujos de trabajo prácticos para la comunidad global.
 
-- 🎥 **YouTube:** [Planeta Código](https://www.youtube.com/@planetacodigo)
-- 🌐 **Web:** [CreandoLabs](https://creandolabs.com)
+---
+
+## 🛠️ Stack Tecnológico Dominante
+
+Construyo y enseño utilizando herramientas modernas, eficientes y alineadas con las demandas del mercado laboral actual:
+
+| Capa / Dimensión           | Tecnologías y Herramientas                                     |
+| :------------------------- | :------------------------------------------------------------- |
+| **Desarrollo Backend**     | Python (Django), PHP, MySQL                                    |
+| **Desarrollo Frontend**    | HTML5, CSS3, Bootstrap, JavaScript Moderno                     |
+| **Herramientas & Entorno** | Git / GitHub, VS Code, Estrategias de Backup e Infraestructura |
+
+---
+
+## 📈 Proyectos Abiertos y Material de Apoyo
+
+Todos los repositorios alojados en este perfil están estructurados como **proyectos reales**, listos para ser analizados, clonados y desplegados paso a paso.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PlanetaCodigoYT&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
 </p>
